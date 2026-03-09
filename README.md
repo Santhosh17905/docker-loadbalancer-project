@@ -105,7 +105,7 @@ This project demonstrates:
 
 ---
 
-# 💼 Resume Project Description
+
 
 Developed a containerized Flask web application deployed using Docker and orchestrated with Docker Compose. Implemented Nginx as a load balancer to distribute traffic between multiple containers and designed a UI dashboard to visualize request handling and container responses.
 
@@ -127,6 +127,10 @@ Refresh the page to observe load balancing between containers.
 * Kubernetes deployment
 * Real-time monitoring dashboard
 * Cloud deployment (AWS / GCP)
+
+## Project Demo
+
+![Project Screenshot](project-demo.png)
 
 ---
 
